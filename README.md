@@ -1,14 +1,15 @@
-# COMP2021 - 高级语言程序设计
+# COMP1011 - 程序设计与思维实践
 
-![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
+![Static Badge](https://img.shields.io/badge/%E8%80%83%E8%AF%95%E8%AF%BE-red)  ![Static Badge](https://img.shields.io/badge/(2023秋之前)%E5%AD%A6%E5%88%86-3-moccasin) ![Static Badge](https://img.shields.io/badge/(2024秋之后)%E5%AD%A6%E5%88%86-4-moccasin)
 
 ![Static Badge](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)  ![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-10%25-wheat)  ![Static Badge](https://img.shields.io/badge/实验-30%25-wheat)  ![Static Badge](https://img.shields.io/badge/期末考试-60%25-wheat)
 
-## 教材
-- C语言程序设计 / 苏小红等编著；蒋宗礼主审. --4版. -- 北京：高等教育出版社，2019.8(2022.7重印)
-  
-  ISBN 978-7-04-051998-3
+2023年秋季学期之前，本门课程名称为高级语言程序设计，3学分，上课内容为C语言程序设计(第四版)的所有章节。
 
+2024年秋季学期开始，本门课程改成程序设计思维与实践，4学分，在原有内容的基础上，增加了部分数据结构和算法部分的内容，这是一门新型的三合一（笑）
+## 教材
+- C语言程序设计 / 苏小红等编著；蒋宗礼主审. --4版. -- 北京：高等教育出版社，2019.8(2022.7重印)ISBN：978-7-04-051998-3
+- 数据结构与算法 / 廖明宏、郭福顺、张岩、李秀坤.--4版.--北京：高等教育出版社，2007.11，ISBN:978-7-04-022473-3
 ## 关于本课
 
 3202 年了，大学中居然还存在这种考试要手写代码，语言标准还停留在上个世纪的编程语言课，简直不可思议。
