@@ -1,0 +1,36 @@
+ID: "COMP1011"
+SimilarID: []
+Name: "程序设计思维与实践"
+CourseProperty:
+  Major:
+    - Year: "2024_2025"
+      Name: [ "工科试验班（计算机与电子通信）", "电气工程及其自动化", "工科试验班（机器人与智能装备）", "工科试验班（空天科技）", "工科试验班（智慧能源与低空动力）" ]
+      Degree: "本"
+  GradeSemesters:
+    - Grade: "大一"
+      Semester: "秋"
+  CourseType: "必修"
+  CourseID: "COMP1011"
+  CourseName: "程序设计思维与实践"
+  Credit: "4.0"
+  CourseHour: "64.0"
+  GPAInfluence: "核心权重"
+  GroupCourse:
+    Link: "/blog/课程介绍" # 选课指南
+    Desc: "程序设计思维与实践课程结合了数据结构和算法的基本知识，是一门新型课程。"
+    Name: "程序设计与数据结构"
+    Ids: ["COMP1011", "COMP1012", "COMP1013"]
+  GradeComposition:
+    - Name: "期末考试"
+      Percentage: 60
+    - Name: "实验"
+      Percentage: 30
+    - Name: "作业"
+      Percentage: 10
+  CourseHourComposition:
+    - Name: "授课"
+      Hour: 64
+    - Name: "上机"
+      Hour: 8
+    - Name: "实验"
+      Hour: 27
