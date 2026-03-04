@@ -2,8 +2,8 @@
 
 ![成绩构成](https://img.shields.io/badge/成绩构成-gold)
 ![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验40%](https://img.shields.io/badge/实验-40%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
+![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
+![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 2023年秋季学期之前，本门课程名称为高级语言程序设计，3学分，上课内容为C语言程序设计(第四版)的所有章节。
 
