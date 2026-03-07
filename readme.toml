@@ -1,7 +1,6 @@
 course_name = "计算思维与实践"
-repo_type = "normal"
 course_code = "COMP1011"
-
+repo_type = "normal"
 description = """
 2023年秋季学期之前，本门课程名称为高级语言程序设计，3学分，上课内容为C语言程序设计(第四版)的所有章节。
 
@@ -19,7 +18,6 @@ content = """
 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
 """
 author = { name = "lmh", link = "https://github.com/lmh12138", date = "" }
-
 
 [[sections]]
 title = "教材"
