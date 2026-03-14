@@ -1,11 +1,5 @@
 # COMP1011 - 计算思维与实践
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![实验30%](https://img.shields.io/badge/实验-30%25-wheat)
-![期末考试60%](https://img.shields.io/badge/期末考试-60%25-wheat)
 
 2023年秋季学期之前，本门课程名称为高级语言程序设计，3学分，上课内容为C语言程序设计(第四版)的所有章节。
 
@@ -21,6 +15,9 @@
   - 教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
   - 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
     > 文 / [lmh](https://github.com/lmh12138)
+- FinalTest9
+  <!-- TOML-ITEM: id="review-FinalTest9-1" -->
+  - Ninth test!
 
 ## 教材
 <!-- TOML-SECTION: title="教材" -->
