@@ -15,6 +15,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 教师团队(集体)
   <!-- TOML-ITEM: id="review-教师团队(集体)-1" -->
   - 教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
