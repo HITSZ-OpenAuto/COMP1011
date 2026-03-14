@@ -12,13 +12,15 @@ description = """
 [lecturers]
 [[lecturers.items]]
 name = "教师团队(集体)"
-
 [[lecturers.items.reviews]]
-content = """
-教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
+content = """教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
 """
 author = { name = "lmh", link = "https://github.com/lmh12138", date = "" }
+[[lecturers.items]]
+name = "FinalTest9"
+[[lecturers.items.reviews]]
+content = "Ninth test!"
 [[sections]]
 title = "教材"
 
