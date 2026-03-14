@@ -9,16 +9,16 @@ description = """
 2025年秋季学期开始，本门课程改成计算思维与实践，2学分，在24原有内容未减少的基础上，减少学时和学分，原则上要求语言基础部分自学，实验内容加量，成为真神之新型三合一自学版（！）
 """
 
-[[lecturers]]
+[lecturers]
+[[lecturers.items]]
 name = "教师团队(集体)"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 教师上课风格没有很活泼，照着 ppt 念，而且速度偏快。
 听课并不必须，因为 C语言 的语法，主要不是听讲学来的，而是自己敲代码所体悟到，上课建议可以自己敲敲代码。
 """
 author = { name = "lmh", link = "https://github.com/lmh12138", date = "" }
-
 [[sections]]
 title = "教材"
 
